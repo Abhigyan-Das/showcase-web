@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+    background-color: burlywood;
+}
+#App
+{
+    background-color: aquamarine;
+ }
+ #games
+{
+    background-color: rgb(213, 1, 1);
+}
+#chat-bot
+{
+    background-color: rgb(24, 14, 54);
+}
+.line
+{
+    margin: 8px auto;
+    background-color: black;
+    height: 6px;
+    width: 10%;
+}
+#menu
+{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
